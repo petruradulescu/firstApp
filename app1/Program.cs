@@ -7,6 +7,8 @@ namespace app1
         public static void Main(string[] args)
         {
             Console.WriteLine("asdasda");
+            Console.WriteLine("asdasda");
+
         }
     }
 }
